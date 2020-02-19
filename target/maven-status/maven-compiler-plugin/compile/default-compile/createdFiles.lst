@@ -1,1 +1,5 @@
 maysoft/springframework/spring5recipeapp/Spring5RecipeAppApplication.class
+maysoft/springframework/spring5recipeapp/domain/Recipe.class
+maysoft/springframework/spring5recipeapp/domain/Notes.class
+maysoft/springframework/spring5recipeapp/domain/Ingredient.class
+maysoft/springframework/spring5recipeapp/controllers/IndexController.class
